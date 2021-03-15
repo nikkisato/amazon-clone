@@ -1,6 +1,5 @@
 import React from 'react';
 import './Checkout.css';
-//import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 import Subtotal from './Subtotal';
 import CheckoutProduct from './CheckoutProduct.js';
 import { useStateValue } from './StateProvider';
